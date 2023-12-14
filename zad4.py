@@ -7,7 +7,7 @@ alldata = pd.read_csv(
     sep="\t",
     usecols=[
         "Survived",
-        "PassengerId",
+        "PassengerId"
         "Pclass",
         "Name",
         "Sex",
